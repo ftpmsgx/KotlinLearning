@@ -1,3 +1,4 @@
-# KotlinLearning
+# Kotlin Learning
 ***
-+ A repositories for learning kotlin.
++ A repositories for learning Kotlin.
++ Some codes here are from "Google Developers"
